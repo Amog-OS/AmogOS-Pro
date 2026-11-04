@@ -30,4 +30,15 @@
 - Patches to stabilise online installation.
 - Better optimization to ensure everything in Installer runs smooth and uses a low amount of ram.
 
+## CONTACT
+[email](amogosdevteam@gmail.com)
+or
+[discord](https://discord.gg/Y8GfwtPB5V) and ask for help
+one of two people will reply in the discord:
+- CursedMC64, the developer behind the core components of the OS
+- techtimefor, the developer behind the extra system components and recent updates
+
+
+have fun, dont sue us, and enjoy AmogOS 2.x
+
 
