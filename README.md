@@ -1,4 +1,4 @@
-# AmogOS 2.1 Pro
+# AmogOS 2.x Pro
 
 Builds in releases.
 
