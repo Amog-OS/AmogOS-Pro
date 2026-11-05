@@ -6,7 +6,14 @@
 - At least 32gb of disk space
 - optionally network for online installation and to access online stuff
 - a fairly recent graphics setup (within the past 18 years)
-- x86_64 hardware 
+- x86_64 hardware
+
+## SOURCES
+[GitLab](https://gitlab.com/amogos-2.x)
+
+[Debian](https://debian.org)
+
+[Distro Repo](https://github.com/amogosbuild/amogosbuild.github.io)
 
 ## CURRENT CHANGELOG:
 
