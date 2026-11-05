@@ -4,7 +4,7 @@
 **SYSTEM REQUIREMENTS**
 - Minimum 2-4 gb of RAM
 - At least 32gb of disk space
-- preferably a network
+- optionally network for online installation and to access online stuff
 - a fairly recent graphics setup (within the past 18 years)
 
 ## CURRENT CHANGELOG:
