@@ -15,6 +15,12 @@
 
 [Distro Repo](https://github.com/amogosbuild/amogosbuild.github.io)
 
+## BUILDING ISO FROM SOURCE
+
+Please follow the instructions from this repo to build from source the same ISO
+
+[AmogOS 2.x Builder](https://github.com/amogosbuild/AmogOS-2.x-Builder)
+
 ## CURRENT CHANGELOG:
 
 > These are the patch notes for the latest version of *AmogOS 2.x Pro - Debian* as of 3/11/26.
