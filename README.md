@@ -6,6 +6,7 @@
 - At least 32gb of disk space
 - optionally network for online installation and to access online stuff
 - a fairly recent graphics setup (within the past 18 years)
+- x86_64 hardware 
 
 ## CURRENT CHANGELOG:
 
