@@ -52,8 +52,8 @@ or
 [discord](https://discord.gg/Y8GfwtPB5V) and ask for help
 
 one of two people will reply in the discord:
-- CursedMC64, the developer behind the core components of the OS
-- techtimefor, the developer behind the extra system components and recent updates
+- CursedMC64, the developer behind the main OS itself and built the distro from the ground up.
+- techtimefor, the developer behind AmogOS Music, AmogOS Installer, AmogOS Notes, AmogOS  App Store and custom splash screen, optimizations and further polish to distro.
 
 
 have fun, dont sue us, and enjoy AmogOS 2.x
